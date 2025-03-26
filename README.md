@@ -1,2 +1,1 @@
-# .github
-TSM Studios GitHub Profile Repository
+# TSM Studios
